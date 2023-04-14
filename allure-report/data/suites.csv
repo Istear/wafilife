@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 14 20:09:56 BDT 2023","Fri Apr 14 20:10:10 BDT 2023","13563","Suite","Test","testcases.WafilifeHomePageTest","testcases.WafilifeHomePageTest","testSiteLoading","Test if the site load properly and the author button works properly.",""
+"passed","Fri Apr 14 20:10:39 BDT 2023","Fri Apr 14 20:11:02 BDT 2023","23066","Suite","Test","testcases.WafilifeAuthorPageTest","testcases.WafilifeAuthorPageTest","testOrderInfoInput","testOrderInfoInput",""
+"passed","Fri Apr 14 20:10:25 BDT 2023","Fri Apr 14 20:10:38 BDT 2023","12907","Suite","Test","testcases.WafilifeAuthorPageTest","testcases.WafilifeAuthorPageTest","testClickLink","Test if the Click Korun link works properly.",""
+"passed","Fri Apr 14 20:10:11 BDT 2023","Fri Apr 14 20:10:23 BDT 2023","12256","Suite","Test","testcases.WafilifeAuthorPageTest","testcases.WafilifeAuthorPageTest","testAuthorPageScrolling","Test if the scrolling and next page button works properly in author page.",""
