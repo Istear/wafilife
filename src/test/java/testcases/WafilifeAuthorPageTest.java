@@ -46,7 +46,7 @@ public class WafilifeAuthorPageTest extends BaseDriver {
 		}
 	}
 	
-	@Test
+	@Test (description = "Test if all the input in checkout info page working properly.")
 	public void testOrderInfoInput() {
 		wafilifeHomePage.browserSetup();
 		driver.get(wafilifeAuthorPage.authorPageUrl);
